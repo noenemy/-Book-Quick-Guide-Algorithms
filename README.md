@@ -1,5 +1,5 @@
 # Book-Quick-Guide-Algorithms
-Code samples for "Quick Guide Algorithms" which was published in 2005. You can see the details from http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=606457
+Code samples for my publication "Quick Guide Algorithms" which was published in 2005. You can see the details from http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=606457
 
 ![Cover Image](http://image3.kangcom.com/2005/12/b_pic/200512120005.gif?raw=true "Quick Guide Algorithms")
 
@@ -21,3 +21,6 @@ Code samples for "Quick Guide Algorithms" which was published in 2005. You can s
 * Lesson 14 Search Alogorithms Pt.2
 * Lesson 15 Cryptograpy
 * Lesson 16 Compression
+
+# License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
